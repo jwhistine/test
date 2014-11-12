@@ -6,8 +6,7 @@
 package gittest;
 
 /**
- *
- * @author mormon
+ * @author mormon, Joel Lassen, Heidy Cespedes
  */
 public class GitTest {
 
